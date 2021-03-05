@@ -13,8 +13,8 @@
               type="text"
               placeholder="Ваше имя"
             />
-            <input type="text" id="company" v-model="company" class="form-control mb-3" placeholder="Наименование компании">
-            <input type="text" id="type" v-model="type" class="form-control mb-3" placeholder="Отрасль компании">
+<!--            <input type="text" id="company" v-model="company" class="form-control mb-3" placeholder="Наименование компании">-->
+<!--            <input type="text" id="type" v-model="type" class="form-control mb-3" placeholder="Отрасль компании">-->
             <input
               id="email"
               v-model="email"
