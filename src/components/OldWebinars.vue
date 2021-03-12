@@ -37,13 +37,23 @@
     data: () => ({
       archives: [
         {
+          name: 'Экспресс-аудит для выявления проблем и генерации решений задач',
+          speaker: 'Алексей Калачев',
+          date: '11 марта 2021 г.',
+          time: '19:00',
+          download:
+                  'https://firebasestorage.googleapis.com/v0/b/korablikstorage.appspot.com/o/AuroraCons%2F%D0%92%D0%B5%D0%B1%D0%B8%D0%BD%D0%B0%D1%80_%D0%90%D1%83%D0%B4%D0%B8%D1%82_%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC%D1%8B_%D0%B8_%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D1%8F_2021_03_11_%D0%90%D0%9A.pdf?alt=media&token=5191c18f-847e-46d8-b38d-96ff31fbe7b6'
+
+        },
+        {
           name: 'Проектный подход к решению нетривиальных задач',
           speaker: 'Вадим Витальевич Чухлебов',
           date: '24 февраля 2021 г.',
           time: '19:00',
           download:
             'https://firebasestorage.googleapis.com/v0/b/korablikstorage.appspot.com/o/AuroraCons%2FProektnyi_podhod_k_netrivialnym_zadacham_24022021.pdf?alt=media&token=e7b9d850-09a7-42ce-b770-acd2152cb120'
-        }
+        },
+
       ]
     })
   }

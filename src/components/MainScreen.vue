@@ -17,12 +17,12 @@
       >
         11 марта в 19.00
       </h3>
-      <a
-        href="#form"
-        class="btn btn-lg btn-red animate__animated animate__delay-2s animate__fadeInUp animate__faster"
-      >
-        Зарегистрироваться
-      </a>
+<!--      <a-->
+<!--        href="#form"-->
+<!--        class="btn btn-lg btn-red animate__animated animate__delay-2s animate__fadeInUp animate__faster"-->
+<!--      >-->
+<!--        Зарегистрироваться-->
+<!--      </a>-->
     </div>
   </div>
 </template>
